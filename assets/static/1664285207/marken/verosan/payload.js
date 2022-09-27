@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/verosan", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/verosan-aufsatzwaschbecken-445-cm-salzburg-weisz-verosan-7854185-1.jpg":"\u002Fassets\u002Fimages\u002Fverosan-aufsatzwaschbecken-445-cm-salzburg-weisz-verosan-7854185-1.webp"}}],fetch:{},mutations:void 0});

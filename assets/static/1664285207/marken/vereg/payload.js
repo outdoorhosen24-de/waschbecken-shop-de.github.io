@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/vereg", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/standard-waschbecken-60-cm-rund-weisz-vereg-5771753-1.jpg":"\u002Fassets\u002Fimages\u002Fstandard-waschbecken-60-cm-rund-weisz-vereg-5771753-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "waschbecken-shop.de",
+    "hostname": "https://www.waschbecken-shop.de/",
+    "email": "waschbecken-shop.desurrealnetworks.io",
+    "organization": "waschbecken-shop.de",
+    "logoText": "Waschbecken-shop.de",
+    "title": "Waschbecken",
+    "subline": "Der Online Shop f\u00fcr Waschbecken",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "7934912",
+        "5169578",
+        "5021506",
+        "7791189",
+        "5345210",
+        "7784721"
+    ],
+    "winnerProducts": [
+        "7934870",
+        "5895685",
+        "7494271"
+    ],
+    "featuredCategories": [
+        "Waschbecken f\u00fcr G\u00e4ste-WC",
+        "Waschbecken f\u00fcr G\u00e4ste-WC",
+        "Waschbecken-Sets",
+        "Waschbecken f\u00fcr G\u00e4ste-WC",
+        "Waschbecken-Sets",
+        "Waschbecken-Sets"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Waschbecken",
-        "featureText": "Your featured text goes here",
+        "featureText": "Das Gesch\u00e4ft ist \u00fcber Waschbecken. Die Auswahl an Waschbecken ist sehr gro\u00df und es gibt auch viele unterschiedliche Modelle. Man kann auch verschiedene Arten von Waschbecken ausw\u00e4hlen.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Waschbecken Shop: Alles f\u00fcr Ihr Badezimmer",
+            "metaDescription": "In unserem Shop findest du eine gro\u00dfe Auswahl an Waschbecken in verschiedenen Ausf\u00fchrungen. Ob klassisch oder modern, hier findest du das passende Becken f\u00fcr dein Zuhause.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Waschbecken: Die besten Modelle f\u00fcr Ihr Zuhause",
+                    "text": "Das Waschbecken ist ein wesentlicher Bestandteil eines Badezimmers. Es dient zum Waschen der H\u00e4nde und Gesichter. Waschbecken gibt es in verschiedenen Ausf\u00fchrungen und Gr\u00f6\u00dfen. Sie k\u00f6nnen aus verschiedenen Materialien wie Keramik, Stein, Glas oder Metall hergestellt werden. Die meisten Waschbecken haben einen Hahn, der das Wasser zum Becken leitet. Einige Waschbecken haben auch eine Ablaufgarnitur, die das Wasser ablaufen l\u00e4sst. Waschbecken k\u00f6nnen freistehend oder an der Wand befestigt sein. Sie k\u00f6nnen auch in einer Kombination mit einer Toilette oder einer Dusche installiert werden."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Waschbecken Shop",
+            "metaDescription": "In unserem Shop findest du eine gro\u00dfe Auswahl an Waschbecken in verschiedenen Ausf\u00fchrungen. Ob klassisch oder modern, hier wirst du sicher f\u00fcndig!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Waschbecken Hersteller",
+            "metaDescription": "Find the perfect Waschbecken for your bathroom from our selection of leading manufacturers. With a wide range of styles and designs to choose from, you're sure to find the perfect sink for your bathroom.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT Waschbecken \u2013 Die besten Waschbecken f\u00fcr Ihr Zuhause",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist das perfekte Waschbecken f\u00fcr Ihr Zuhause. W\u00e4hlen Sie aus unserer gro\u00dfen Auswahl an Waschbecken in verschiedenen Gr\u00f6\u00dfen und Stilen. $KATEGORIE",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Die besten Waschbecken f\u00fcr Ihr Zuhause",
+        "defaultMetaDescription": "$KATEGORIE Waschbecken in verschiedenen Ausf\u00fchrungen. Ob rund, eckig oder oval - hier findest du das passende Becken f\u00fcr dein Badezimmer.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER Waschbecken: Hier finden Sie eine gro\u00dfe Auswahl an Waschbecken f\u00fcr Ihr Zuhause. Vom klassischen Design bis zum modernen Look, wir haben das perfekte Waschbecken f\u00fcr Sie.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Waschbecken",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Waschbecken Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Waschbecken Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }

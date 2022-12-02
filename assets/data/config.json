@@ -51,12 +51,15 @@
             "title": "Waschbecken Shop: Alles für Ihr Badezimmer",
             "metaDescription": "In unserem Shop findest du eine große Auswahl an Waschbecken in verschiedenen Ausführungen. Ob klassisch oder modern, hier findest du das passende Becken für dein Zuhause.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Waschbecken: Die besten Modelle für Ihr Zuhause",
-                    "text": "Das Waschbecken ist ein wesentlicher Bestandteil eines Badezimmers. Es dient zum Waschen der Hände und Gesichter. Waschbecken gibt es in verschiedenen Ausführungen und Größen. Sie können aus verschiedenen Materialien wie Keramik, Stein, Glas oder Metall hergestellt werden. Die meisten Waschbecken haben einen Hahn, der das Wasser zum Becken leitet. Einige Waschbecken haben auch eine Ablaufgarnitur, die das Wasser ablaufen lässt. Waschbecken können freistehend oder an der Wand befestigt sein. Sie können auch in einer Kombination mit einer Toilette oder einer Dusche installiert werden."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Waschbecken: Die besten Modelle für Ihr Zuhause",
+                        "text": "Das Waschbecken ist ein wesentlicher Bestandteil eines Badezimmers. Es dient zum Waschen der Hände und Gesichter. Waschbecken gibt es in verschiedenen Ausführungen und Größen. Sie können aus verschiedenen Materialien wie Keramik, Stein, Glas oder Metall hergestellt werden. Die meisten Waschbecken haben einen Hahn, der das Wasser zum Becken leitet. Einige Waschbecken haben auch eine Ablaufgarnitur, die das Wasser ablaufen lässt. Waschbecken können freistehend oder an der Wand befestigt sein. Sie können auch in einer Kombination mit einer Toilette oder einer Dusche installiert werden."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Waschbecken Shop",

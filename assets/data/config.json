@@ -1,5 +1,5 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "waschbecken-shop.de",
     "hostname": "https://www.waschbecken-shop.de/",
     "email": "waschbecken-shop.de@surrealnetworks.io",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Waschbecken",
-        "featureText": "Das Geschäft ist über Waschbecken. Die Auswahl an Waschbecken ist sehr groß und es gibt auch viele unterschiedliche Modelle. Man kann auch verschiedene Arten von Waschbecken auswählen.",
+        "featureText": "Willkommen in unserem Shop für Waschbecken. Wir bieten Ihnen Waschbecken für jeden Anwendungsbereich. Ob Einbau-Waschbecken, Aufsatz-Waschbecken, Handwaschbecken oder weitere ausgewählte Waschbecken: In unserem Shop sind sie zu finden. Suchen sie das passende Produkt einfach über die unterschiedlichen Kategorien oder direkt über die Hersteller-Auflistung! Viel Spaß! ",
         "index": {
-            "title": "Waschbecken Shop: Alles für Ihr Badezimmer",
-            "metaDescription": "In unserem Shop findest du eine große Auswahl an Waschbecken in verschiedenen Ausführungen. Ob klassisch oder modern, hier findest du das passende Becken für dein Zuhause.",
+            "title": "Waschbecken - ganz bequem online kaufen",
+            "metaDescription": "Sie suchen das perfekte Waschbecken? Wir bieten Waschbecken für jeden Anwendungsbereich in vielen Designs von Top Herstellern wie Villeroy & Boch, Duravit uvm. ",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Waschbecken Shop",
-            "metaDescription": "In unserem Shop findest du eine große Auswahl an Waschbecken in verschiedenen Ausführungen. Ob klassisch oder modern, hier wirst du sicher fündig!",
+            "title": "Waschbecken | Der Online Shop",
+            "metaDescription": "In unserem Shop erhältlich! | Handwaschbecken, Einbau-Waschbecken, Aufsatzwaschbecken und viele mehr | Top-Hersteller: Villeroy & Boch, Duravit, Geberit und Co.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Waschbecken Hersteller",
-            "metaDescription": "Find the perfect Waschbecken for your bathroom from our selection of leading manufacturers. With a wide range of styles and designs to choose from, you're sure to find the perfect sink for your bathroom.",
+            "title": "Top Hersteller für Waschbecken",
+            "metaDescription": "Eine Liste all unserer Hersteller für Waschbecken auf einen Blick | Entdecken Sie tolle Produkte von Herstellern wie: Villeroy & Boch, Duravit, Geberit uvm. ",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT Waschbecken – Die besten Waschbecken für Ihr Zuhause",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist das perfekte Waschbecken für Ihr Zuhause. Wählen Sie aus unserer großen Auswahl an Waschbecken in verschiedenen Größen und Stilen. $KATEGORIE",
+        "defaultTitle": "$PRODUKT - günstiger bestellen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist ein Produkt, das durch Qualität überzeugt! | In unserem Shop finden Sie weitere Markenprodukte für den Bereich $KATEGORIE",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Die besten Waschbecken für Ihr Zuhause",
-        "defaultMetaDescription": "$KATEGORIE Waschbecken in verschiedenen Ausführungen. Ob rund, eckig oder oval - hier findest du das passende Becken für dein Badezimmer.",
+        "defaultTitle": "$KATEGORIE - Riesige Auswahl in unserem Shop",
+        "defaultMetaDescription": "In der Kategorie $KATEGORIE finden Sie Waschbecken in verschiedenen Ausführungen. Ob rund, eckig oder oval: hier ist für jeden Geschmack etwas dabei!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER Waschbecken: Hier finden Sie eine große Auswahl an Waschbecken für Ihr Zuhause. Vom klassischen Design bis zum modernen Look, wir haben das perfekte Waschbecken für Sie.",
+        "defaultTitle": "$HERSTELLER - Qualität zum Bestpreis",
+        "defaultMetaDescription": "Kaufen Sie bei uns Waschbecken von Herstellern wie $HERSTELLER | Umfangreiches Sortiment | Top Qualität zum fairen Preis | Waschbecken einfach Liefern lassen.",
         "defaultRobots": "index, follow",
         "brands": [
             {

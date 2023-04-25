@@ -1,184 +1,187 @@
 {
-    "configIsReady": true,
-    "domain": "waschbecken-shop.de",
-    "hostname": "https://www.waschbecken-shop.de/",
-    "email": "waschbecken-shop.de@surrealnetworks.io",
-    "organization": "waschbecken-shop.de",
-    "logoText": "Waschbecken-shop.de",
-    "title": "Waschbecken",
-    "subline": "Der Online Shop für Waschbecken",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "7934912",
-        "5169578",
-        "5021506",
-        "7791189",
-        "5345210",
-        "7784721"
-    ],
-    "winnerProducts": [
-        "7934870",
-        "5895685",
-        "7494271"
-    ],
-    "featuredCategories": [
-        "Waschbecken für Gäste-WC",
-        "Waschbecken für Gäste-WC",
-        "Waschbecken-Sets",
-        "Waschbecken für Gäste-WC",
-        "Waschbecken-Sets",
-        "Waschbecken-Sets"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Waschbecken",
-        "featureText": "Willkommen in unserem Shop für Waschbecken. Wir bieten Ihnen Waschbecken für jeden Anwendungsbereich. Ob Einbau-Waschbecken, Aufsatz-Waschbecken, Handwaschbecken oder weitere ausgewählte Waschbecken: In unserem Shop sind sie zu finden. Suchen sie das passende Produkt einfach über die unterschiedlichen Kategorien oder direkt über die Hersteller-Auflistung! Viel Spaß! ",
-        "index": {
-            "title": "Waschbecken - ganz bequem online kaufen",
-            "metaDescription": "Sie suchen das perfekte Waschbecken? Wir bieten Waschbecken für jeden Anwendungsbereich in vielen Designs von Top Herstellern wie Villeroy & Boch, Duravit uvm. ",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen im Waschbecken-Shop",
-                        "text": "Herzlich willkommen auf unserer Website waschbecken-shop.de, dem Online-Shop für hochwertige Waschbecken. Wir bieten Ihnen eine große Auswahl an Handwaschbecken, Waschbecken für das Gäste-WC, Aufsatzwaschbecken, Einbauwaschbecken und Waschbecken-Sets. Unsere Waschbecken werden aus den besten Materialien gefertigt und bieten Ihnen eine lange Lebensdauer. Ob Sie ein neues Waschbecken für Ihr Badezimmer oder Gäste-WC suchen oder Ihr vorhandenes Waschbecken ersetzen möchten, bei uns werden Sie fündig. Stöbern Sie durch unsere Kategorien und entdecken Sie das Waschbecken, das perfekt zu Ihren Wünschen und Bedürfnissen passt. Bestellen Sie bequem online und lassen Sie sich von der Qualität und dem Stil unserer Waschbecken überzeugen."
-                    },
-                    {
-                        "title": "Handwaschbecken",
-                        "text": "<a href=\"/kategorie/handwaschbecken/\" title=\"Handwaschbecken\">Handwaschbecken</a> sind eine praktische Lösung für kleine Badezimmer oder Gäste-WCs. Bei waschbecken-shop.de finden Sie eine breite Auswahl an hochwertigen Handwaschbecken in verschiedenen Größen und Designs. Ob Sie ein klassisches oder modernes Waschbecken suchen, hier werden Sie garantiert fündig. Alle Handwaschbecken sind aus langlebigem Material gefertigt und bieten eine hervorragende Funktionalität. Kaufen Sie jetzt Ihr neues Handwaschbecken und genießen Sie ein angenehmes Wascherlebnis."
-                    },
-                    {
-                        "title": "Waschbecken für Gäste-WC",
-                        "text": "Ein Gäste-WC sollte nicht nur sauber und ordentlich aussehen, sondern auch praktisch und platzsparend sein. Deshalb bietet waschbecken-shop.de eine breite Auswahl an Waschbecken speziell für Gäste-WCs. Ob Sie ein kleines oder großes Waschbecken suchen, hier werden Sie garantiert fündig. Alle <a href=\"/kategorie/waschbecken-fuer-gaeste-wc/\" title=\"Waschbecken für Gäste-WC\">Waschbecken für Gäste-WC</a>s sind aus hochwertigen Materialien gefertigt und bieten eine hervorragende Funktionalität. Kaufen Sie jetzt Ihr neues Waschbecken für Gäste-WC und verleihen Sie Ihrem Gäste-WC eine neue Optik."
-                    },
-                    {
-                        "title": "Aufsatzwaschbecken",
-                        "text": "<a href=\"/kategorie/aufsatzwaschbecken/\" title=\"Aufsatzwaschbecken\">Aufsatzwaschbecken</a> sind eine stilvolle und moderne Lösung für jedes Badezimmer. Bei waschbecken-shop.de finden Sie eine breite Auswahl an hochwertigen Aufsatzwaschbecken in verschiedenen Größen und Designs. Ob Sie ein klassisches oder modernes Waschbecken suchen, hier werden Sie garantiert fündig. Alle Aufsatzwaschbecken sind aus langlebigem Material gefertigt und bieten eine hervorragende Funktionalität. Kaufen Sie jetzt Ihr neues Aufsatzwaschbecken und genießen Sie ein angenehmes Wascherlebnis."
-                    },
-                    {
-                        "title": "Einbauwaschbecken im Waschbecken-Shop",
-                        "text": "Im Waschbecken-Shop finden Sie eine große Auswahl an Einbauwaschbecken. Einbauwaschbecken sind die perfekte Wahl für eine stilvolle und moderne Badezimmergestaltung. Diese Waschbecken eignen sich besonders für die Montage in einer vorhandenen Arbeitsplatte oder einem Waschbeckenunterschrank. Die Einbauwaschbecken sind in verschiedenen Größen, Formen und Materialien erhältlich, so dass Sie das passende Waschbecken für Ihr Badezimmer finden können. Entdecken Sie jetzt die Vielfalt an Einbauwaschbecken im Waschbecken-Shop."
-                    },
-                    {
-                        "title": "Waschbecken-Sets im Waschbecken-Shop",
-                        "text": "Im Waschbecken-Shop finden Sie auch praktische Waschbecken-Sets. Diese Sets enthalten neben dem Waschbecken auch weitere wichtige Komponenten wie Armaturen, Ablauf und Überlauf. Mit einem Waschbecken-Set sparen Sie Zeit und Geld, da Sie alles auf einmal bestellen können und somit keine Einzelteile vergessen oder falsch auswählen. Entdecken Sie jetzt das umfassende Angebot an Waschbecken-Sets im Waschbecken-Shop."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Waschbecken | Der Online Shop",
-            "metaDescription": "In unserem Shop erhältlich! | Handwaschbecken, Einbau-Waschbecken, Aufsatzwaschbecken und viele mehr | Top-Hersteller: Villeroy & Boch, Duravit, Geberit und Co.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Top Hersteller für Waschbecken",
-            "metaDescription": "Eine Liste all unserer Hersteller für Waschbecken auf einen Blick | Entdecken Sie tolle Produkte von Herstellern wie: Villeroy & Boch, Duravit, Geberit uvm. ",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT - günstiger bestellen",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist ein Produkt, das durch Qualität überzeugt! | In unserem Shop finden Sie weitere Markenprodukte für den Bereich $KATEGORIE",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "waschbecken-shop.de",
+  "hostname": "https://www.waschbecken-shop.de/",
+  "email": "waschbecken-shop.de@surrealnetworks.io",
+  "organization": "waschbecken-shop.de",
+  "logoText": "Waschbecken-shop.de",
+  "title": "Waschbecken",
+  "subline": "Der Online Shop f\u00fcr Waschbecken",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "7934912",
+    "5169578",
+    "5021506",
+    "7791189",
+    "5345210",
+    "7784721"
+  ],
+  "winnerProducts": [
+    "7934870",
+    "5895685",
+    "7494271"
+  ],
+  "featuredCategories": [
+    "Waschbecken f\u00fcr G\u00e4ste-WC",
+    "Waschbecken f\u00fcr G\u00e4ste-WC",
+    "Waschbecken-Sets",
+    "Waschbecken f\u00fcr G\u00e4ste-WC",
+    "Waschbecken-Sets",
+    "Waschbecken-Sets"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Waschbecken",
+    "featureText": "Willkommen in unserem Shop f\u00fcr Waschbecken. Wir bieten Ihnen Waschbecken f\u00fcr jeden Anwendungsbereich. Ob Einbau-Waschbecken, Aufsatz-Waschbecken, Handwaschbecken oder weitere ausgew\u00e4hlte Waschbecken: In unserem Shop sind sie zu finden. Suchen sie das passende Produkt einfach \u00fcber die unterschiedlichen Kategorien oder direkt \u00fcber die Hersteller-Auflistung! Viel Spa\u00df! ",
+    "index": {
+      "title": "Waschbecken - ganz bequem online kaufen",
+      "metaDescription": "Sie suchen das perfekte Waschbecken? Wir bieten Waschbecken f\u00fcr jeden Anwendungsbereich in vielen Designs von Top Herstellern wie Villeroy & Boch, Duravit uvm. ",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen im Waschbecken-Shop",
+            "text": "Herzlich willkommen auf unserer Website waschbecken-shop.de, dem Online-Shop f\u00fcr hochwertige Waschbecken. Wir bieten Ihnen eine gro\u00dfe Auswahl an Handwaschbecken, Waschbecken f\u00fcr das G\u00e4ste-WC, Aufsatzwaschbecken, Einbauwaschbecken und Waschbecken-Sets. Unsere Waschbecken werden aus den besten Materialien gefertigt und bieten Ihnen eine lange Lebensdauer. Ob Sie ein neues Waschbecken f\u00fcr Ihr Badezimmer oder G\u00e4ste-WC suchen oder Ihr vorhandenes Waschbecken ersetzen m\u00f6chten, bei uns werden Sie f\u00fcndig. St\u00f6bern Sie durch unsere Kategorien und entdecken Sie das Waschbecken, das perfekt zu Ihren W\u00fcnschen und Bed\u00fcrfnissen passt. Bestellen Sie bequem online und lassen Sie sich von der Qualit\u00e4t und dem Stil unserer Waschbecken \u00fcberzeugen."
+          },
+          {
+            "title": "Handwaschbecken",
+            "text": "<a href=\"/kategorie/handwaschbecken/\" title=\"Handwaschbecken\">Handwaschbecken</a> sind eine praktische L\u00f6sung f\u00fcr kleine Badezimmer oder G\u00e4ste-WCs. Bei waschbecken-shop.de finden Sie eine breite Auswahl an hochwertigen Handwaschbecken in verschiedenen Gr\u00f6\u00dfen und Designs. Ob Sie ein klassisches oder modernes Waschbecken suchen, hier werden Sie garantiert f\u00fcndig. Alle Handwaschbecken sind aus langlebigem Material gefertigt und bieten eine hervorragende Funktionalit\u00e4t. Kaufen Sie jetzt Ihr neues Handwaschbecken und genie\u00dfen Sie ein angenehmes Wascherlebnis."
+          },
+          {
+            "title": "Waschbecken f\u00fcr G\u00e4ste-WC",
+            "text": "Ein G\u00e4ste-WC sollte nicht nur sauber und ordentlich aussehen, sondern auch praktisch und platzsparend sein. Deshalb bietet waschbecken-shop.de eine breite Auswahl an Waschbecken speziell f\u00fcr G\u00e4ste-WCs. Ob Sie ein kleines oder gro\u00dfes Waschbecken suchen, hier werden Sie garantiert f\u00fcndig. Alle <a href=\"/kategorie/waschbecken-fuer-gaeste-wc/\" title=\"Waschbecken f\u00fcr G\u00e4ste-WC\">Waschbecken f\u00fcr G\u00e4ste-WC</a>s sind aus hochwertigen Materialien gefertigt und bieten eine hervorragende Funktionalit\u00e4t. Kaufen Sie jetzt Ihr neues Waschbecken f\u00fcr G\u00e4ste-WC und verleihen Sie Ihrem G\u00e4ste-WC eine neue Optik."
+          },
+          {
+            "title": "Aufsatzwaschbecken",
+            "text": "<a href=\"/kategorie/aufsatzwaschbecken/\" title=\"Aufsatzwaschbecken\">Aufsatzwaschbecken</a> sind eine stilvolle und moderne L\u00f6sung f\u00fcr jedes Badezimmer. Bei waschbecken-shop.de finden Sie eine breite Auswahl an hochwertigen Aufsatzwaschbecken in verschiedenen Gr\u00f6\u00dfen und Designs. Ob Sie ein klassisches oder modernes Waschbecken suchen, hier werden Sie garantiert f\u00fcndig. Alle Aufsatzwaschbecken sind aus langlebigem Material gefertigt und bieten eine hervorragende Funktionalit\u00e4t. Kaufen Sie jetzt Ihr neues Aufsatzwaschbecken und genie\u00dfen Sie ein angenehmes Wascherlebnis."
+          },
+          {
+            "title": "Einbauwaschbecken im Waschbecken-Shop",
+            "text": "Im Waschbecken-Shop finden Sie eine gro\u00dfe Auswahl an Einbauwaschbecken. Einbauwaschbecken sind die perfekte Wahl f\u00fcr eine stilvolle und moderne Badezimmergestaltung. Diese Waschbecken eignen sich besonders f\u00fcr die Montage in einer vorhandenen Arbeitsplatte oder einem Waschbeckenunterschrank. Die Einbauwaschbecken sind in verschiedenen Gr\u00f6\u00dfen, Formen und Materialien erh\u00e4ltlich, so dass Sie das passende Waschbecken f\u00fcr Ihr Badezimmer finden k\u00f6nnen. Entdecken Sie jetzt die Vielfalt an Einbauwaschbecken im Waschbecken-Shop."
+          },
+          {
+            "title": "Waschbecken-Sets im Waschbecken-Shop",
+            "text": "Im Waschbecken-Shop finden Sie auch praktische Waschbecken-Sets. Diese Sets enthalten neben dem Waschbecken auch weitere wichtige Komponenten wie Armaturen, Ablauf und \u00dcberlauf. Mit einem Waschbecken-Set sparen Sie Zeit und Geld, da Sie alles auf einmal bestellen k\u00f6nnen und somit keine Einzelteile vergessen oder falsch ausw\u00e4hlen. Entdecken Sie jetzt das umfassende Angebot an Waschbecken-Sets im Waschbecken-Shop."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE - Riesige Auswahl in unserem Shop",
-        "defaultMetaDescription": "In der Kategorie $KATEGORIE finden Sie Waschbecken in verschiedenen Ausführungen. Ob rund, eckig oder oval: hier ist für jeden Geschmack etwas dabei!",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Waschbecken | Der Online Shop",
+      "metaDescription": "In unserem Shop erh\u00e4ltlich! | Handwaschbecken, Einbau-Waschbecken, Aufsatzwaschbecken und viele mehr | Top-Hersteller: Villeroy & Boch, Duravit, Geberit und Co.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER - Qualität zum Bestpreis",
-        "defaultMetaDescription": "Kaufen Sie bei uns Waschbecken von Herstellern wie $HERSTELLER | Umfangreiches Sortiment | Top Qualität zum fairen Preis | Waschbecken einfach Liefern lassen.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Waschbecken",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Waschbecken Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Waschbecken Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Top Hersteller f\u00fcr Waschbecken",
+      "metaDescription": "Eine Liste all unserer Hersteller f\u00fcr Waschbecken auf einen Blick | Entdecken Sie tolle Produkte von Herstellern wie: Villeroy & Boch, Duravit, Geberit uvm. ",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT - g\u00fcnstiger bestellen",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist ein Produkt, das durch Qualit\u00e4t \u00fcberzeugt! | In unserem Shop finden Sie weitere Markenprodukte f\u00fcr den Bereich $KATEGORIE",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE - Riesige Auswahl in unserem Shop",
+    "defaultMetaDescription": "In der Kategorie $KATEGORIE finden Sie Waschbecken in verschiedenen Ausf\u00fchrungen. Ob rund, eckig oder oval: hier ist f\u00fcr jeden Geschmack etwas dabei!",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER - Qualit\u00e4t zum Bestpreis",
+    "defaultMetaDescription": "Kaufen Sie bei uns Waschbecken von Herstellern wie $HERSTELLER | Umfangreiches Sortiment | Top Qualit\u00e4t zum fairen Preis | Waschbecken einfach Liefern lassen.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Waschbecken",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Waschbecken Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Waschbecken Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }

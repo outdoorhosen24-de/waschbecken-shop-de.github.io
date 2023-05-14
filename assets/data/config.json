@@ -1,220 +1,227 @@
 {
-  "configIsReady": true,
-  "domain": "waschbecken-shop.de",
-  "hostname": "https://www.waschbecken-shop.de/",
-  "email": "waschbecken-shop.de@surrealnetworks.io",
-  "organization": "waschbecken-shop.de",
-  "logoText": "Waschbecken-shop.de",
-  "title": "Waschbecken",
-  "subline": "Der Online Shop für Waschbecken",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "7934912",
-    "5169578",
-    "5021506",
-    "7791189",
-    "5345210",
-    "7784721"
-  ],
-  "winnerProducts": [
-    "7934870",
-    "5895685",
-    "7494271"
-  ],
-  "featuredCategories": [
-    "Waschbecken für Gäste-WC",
-    "Waschbecken für Gäste-WC",
-    "Waschbecken-Sets",
-    "Waschbecken für Gäste-WC",
-    "Waschbecken-Sets",
-    "Waschbecken-Sets"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Waschbecken",
-    "featureText": "Willkommen in unserem Shop für Waschbecken. Wir bieten Ihnen Waschbecken für jeden Anwendungsbereich. Ob Einbau-Waschbecken, Aufsatz-Waschbecken, Handwaschbecken oder weitere ausgewählte Waschbecken: In unserem Shop sind sie zu finden. Suchen sie das passende Produkt einfach über die unterschiedlichen Kategorien oder direkt über die Hersteller-Auflistung! Viel Spaß! ",
-    "index": {
-      "title": "Waschbecken - ganz bequem online kaufen",
-      "metaDescription": "Sie suchen das perfekte Waschbecken? Wir bieten Waschbecken für jeden Anwendungsbereich in vielen Designs von Top Herstellern wie Villeroy & Boch, Duravit uvm. ",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen im Waschbecken-Shop",
-            "text": "Herzlich willkommen auf unserer Website waschbecken-shop.de, dem Online-Shop für hochwertige Waschbecken. Wir bieten Ihnen eine große Auswahl an Handwaschbecken, Waschbecken für das Gäste-WC, Aufsatzwaschbecken, Einbauwaschbecken und Waschbecken-Sets. Unsere Waschbecken werden aus den besten Materialien gefertigt und bieten Ihnen eine lange Lebensdauer. Ob Sie ein neues Waschbecken für Ihr Badezimmer oder Gäste-WC suchen oder Ihr vorhandenes Waschbecken ersetzen möchten, bei uns werden Sie fündig. Stöbern Sie durch unsere Kategorien und entdecken Sie das Waschbecken, das perfekt zu Ihren Wünschen und Bedürfnissen passt. Bestellen Sie bequem online und lassen Sie sich von der Qualität und dem Stil unserer Waschbecken überzeugen."
-          },
-          {
-            "title": "Handwaschbecken",
-            "text": "<a href=\"/kategorie/handwaschbecken/\" title=\"Handwaschbecken\">Handwaschbecken</a> sind eine praktische Lösung für kleine Badezimmer oder Gäste-WCs. Bei waschbecken-shop.de finden Sie eine breite Auswahl an hochwertigen Handwaschbecken in verschiedenen Größen und Designs. Ob Sie ein klassisches oder modernes Waschbecken suchen, hier werden Sie garantiert fündig. Alle Handwaschbecken sind aus langlebigem Material gefertigt und bieten eine hervorragende Funktionalität. Kaufen Sie jetzt Ihr neues Handwaschbecken und genießen Sie ein angenehmes Wascherlebnis."
-          },
-          {
-            "title": "Waschbecken für Gäste-WC",
-            "text": "Ein Gäste-WC sollte nicht nur sauber und ordentlich aussehen, sondern auch praktisch und platzsparend sein. Deshalb bietet waschbecken-shop.de eine breite Auswahl an Waschbecken speziell für Gäste-WCs. Ob Sie ein kleines oder großes Waschbecken suchen, hier werden Sie garantiert fündig. Alle <a href=\"/kategorie/waschbecken-fuer-gaeste-wc/\" title=\"Waschbecken für Gäste-WC\">Waschbecken für Gäste-WC</a>s sind aus hochwertigen Materialien gefertigt und bieten eine hervorragende Funktionalität. Kaufen Sie jetzt Ihr neues Waschbecken für Gäste-WC und verleihen Sie Ihrem Gäste-WC eine neue Optik."
-          },
-          {
-            "title": "Aufsatzwaschbecken",
-            "text": "<a href=\"/kategorie/aufsatzwaschbecken/\" title=\"Aufsatzwaschbecken\">Aufsatzwaschbecken</a> sind eine stilvolle und moderne Lösung für jedes Badezimmer. Bei waschbecken-shop.de finden Sie eine breite Auswahl an hochwertigen Aufsatzwaschbecken in verschiedenen Größen und Designs. Ob Sie ein klassisches oder modernes Waschbecken suchen, hier werden Sie garantiert fündig. Alle Aufsatzwaschbecken sind aus langlebigem Material gefertigt und bieten eine hervorragende Funktionalität. Kaufen Sie jetzt Ihr neues Aufsatzwaschbecken und genießen Sie ein angenehmes Wascherlebnis."
-          },
-          {
-            "title": "Einbauwaschbecken im Waschbecken-Shop",
-            "text": "Im Waschbecken-Shop finden Sie eine große Auswahl an Einbauwaschbecken. Einbauwaschbecken sind die perfekte Wahl für eine stilvolle und moderne Badezimmergestaltung. Diese Waschbecken eignen sich besonders für die Montage in einer vorhandenen Arbeitsplatte oder einem Waschbeckenunterschrank. Die Einbauwaschbecken sind in verschiedenen Größen, Formen und Materialien erhältlich, so dass Sie das passende Waschbecken für Ihr Badezimmer finden können. Entdecken Sie jetzt die Vielfalt an Einbauwaschbecken im Waschbecken-Shop."
-          },
-          {
-            "title": "Waschbecken-Sets im Waschbecken-Shop",
-            "text": "Im Waschbecken-Shop finden Sie auch praktische Waschbecken-Sets. Diese Sets enthalten neben dem Waschbecken auch weitere wichtige Komponenten wie Armaturen, Ablauf und Überlauf. Mit einem Waschbecken-Set sparen Sie Zeit und Geld, da Sie alles auf einmal bestellen können und somit keine Einzelteile vergessen oder falsch auswählen. Entdecken Sie jetzt das umfassende Angebot an Waschbecken-Sets im Waschbecken-Shop."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "waschbecken-shop.de",
+    "hostname": "https://www.waschbecken-shop.de/",
+    "email": "waschbecken-shop.de@surrealnetworks.io",
+    "organization": "waschbecken-shop.de",
+    "logoText": "Waschbecken-shop.de",
+    "title": "Waschbecken",
+    "subline": "Der Online Shop für Waschbecken",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "7934912",
+        "5169578",
+        "5021506",
+        "7791189",
+        "5345210",
+        "7784721"
+    ],
+    "winnerProducts": [
+        "7934870",
+        "5895685",
+        "7494271"
+    ],
+    "featuredCategories": [
+        "Waschbecken für Gäste-WC",
+        "Waschbecken für Gäste-WC",
+        "Waschbecken-Sets",
+        "Waschbecken für Gäste-WC",
+        "Waschbecken-Sets",
+        "Waschbecken-Sets"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Waschbecken",
+        "featureText": "Willkommen in unserem Shop für Waschbecken. Wir bieten Ihnen Waschbecken für jeden Anwendungsbereich. Ob Einbau-Waschbecken, Aufsatz-Waschbecken, Handwaschbecken oder weitere ausgewählte Waschbecken: In unserem Shop sind sie zu finden. Suchen sie das passende Produkt einfach über die unterschiedlichen Kategorien oder direkt über die Hersteller-Auflistung! Viel Spaß! ",
+        "index": {
+            "title": "Waschbecken - ganz bequem online kaufen",
+            "metaDescription": "Sie suchen das perfekte Waschbecken? Wir bieten Waschbecken für jeden Anwendungsbereich in vielen Designs von Top Herstellern wie Villeroy & Boch, Duravit uvm. ",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen im Waschbecken-Shop",
+                        "text": "Herzlich willkommen auf unserer Website waschbecken-shop.de, dem Online-Shop für hochwertige Waschbecken. Wir bieten Ihnen eine große Auswahl an Handwaschbecken, Waschbecken für das Gäste-WC, Aufsatzwaschbecken, Einbauwaschbecken und Waschbecken-Sets. Unsere Waschbecken werden aus den besten Materialien gefertigt und bieten Ihnen eine lange Lebensdauer. Ob Sie ein neues Waschbecken für Ihr Badezimmer oder Gäste-WC suchen oder Ihr vorhandenes Waschbecken ersetzen möchten, bei uns werden Sie fündig. Stöbern Sie durch unsere Kategorien und entdecken Sie das Waschbecken, das perfekt zu Ihren Wünschen und Bedürfnissen passt. Bestellen Sie bequem online und lassen Sie sich von der Qualität und dem Stil unserer Waschbecken überzeugen."
+                    },
+                    {
+                        "title": "Handwaschbecken",
+                        "text": "<a href=\"/kategorie/handwaschbecken/\" title=\"Handwaschbecken\">Handwaschbecken</a> sind eine praktische Lösung für kleine Badezimmer oder Gäste-WCs. Bei waschbecken-shop.de finden Sie eine breite Auswahl an hochwertigen Handwaschbecken in verschiedenen Größen und Designs. Ob Sie ein klassisches oder modernes Waschbecken suchen, hier werden Sie garantiert fündig. Alle Handwaschbecken sind aus langlebigem Material gefertigt und bieten eine hervorragende Funktionalität. Kaufen Sie jetzt Ihr neues Handwaschbecken und genießen Sie ein angenehmes Wascherlebnis."
+                    },
+                    {
+                        "title": "Waschbecken für Gäste-WC",
+                        "text": "Ein Gäste-WC sollte nicht nur sauber und ordentlich aussehen, sondern auch praktisch und platzsparend sein. Deshalb bietet waschbecken-shop.de eine breite Auswahl an Waschbecken speziell für Gäste-WCs. Ob Sie ein kleines oder großes Waschbecken suchen, hier werden Sie garantiert fündig. Alle <a href=\"/kategorie/waschbecken-fuer-gaeste-wc/\" title=\"Waschbecken für Gäste-WC\">Waschbecken für Gäste-WC</a>s sind aus hochwertigen Materialien gefertigt und bieten eine hervorragende Funktionalität. Kaufen Sie jetzt Ihr neues Waschbecken für Gäste-WC und verleihen Sie Ihrem Gäste-WC eine neue Optik."
+                    },
+                    {
+                        "title": "Aufsatzwaschbecken",
+                        "text": "<a href=\"/kategorie/aufsatzwaschbecken/\" title=\"Aufsatzwaschbecken\">Aufsatzwaschbecken</a> sind eine stilvolle und moderne Lösung für jedes Badezimmer. Bei waschbecken-shop.de finden Sie eine breite Auswahl an hochwertigen Aufsatzwaschbecken in verschiedenen Größen und Designs. Ob Sie ein klassisches oder modernes Waschbecken suchen, hier werden Sie garantiert fündig. Alle Aufsatzwaschbecken sind aus langlebigem Material gefertigt und bieten eine hervorragende Funktionalität. Kaufen Sie jetzt Ihr neues Aufsatzwaschbecken und genießen Sie ein angenehmes Wascherlebnis."
+                    },
+                    {
+                        "title": "Einbauwaschbecken im Waschbecken-Shop",
+                        "text": "Im Waschbecken-Shop finden Sie eine große Auswahl an Einbauwaschbecken. Einbauwaschbecken sind die perfekte Wahl für eine stilvolle und moderne Badezimmergestaltung. Diese Waschbecken eignen sich besonders für die Montage in einer vorhandenen Arbeitsplatte oder einem Waschbeckenunterschrank. Die Einbauwaschbecken sind in verschiedenen Größen, Formen und Materialien erhältlich, so dass Sie das passende Waschbecken für Ihr Badezimmer finden können. Entdecken Sie jetzt die Vielfalt an Einbauwaschbecken im Waschbecken-Shop."
+                    },
+                    {
+                        "title": "Waschbecken-Sets im Waschbecken-Shop",
+                        "text": "Im Waschbecken-Shop finden Sie auch praktische Waschbecken-Sets. Diese Sets enthalten neben dem Waschbecken auch weitere wichtige Komponenten wie Armaturen, Ablauf und Überlauf. Mit einem Waschbecken-Set sparen Sie Zeit und Geld, da Sie alles auf einmal bestellen können und somit keine Einzelteile vergessen oder falsch auswählen. Entdecken Sie jetzt das umfassende Angebot an Waschbecken-Sets im Waschbecken-Shop."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Waschbecken | Der Online Shop",
+            "metaDescription": "In unserem Shop erhältlich! | Handwaschbecken, Einbau-Waschbecken, Aufsatzwaschbecken und viele mehr | Top-Hersteller: Villeroy & Boch, Duravit, Geberit und Co.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Top Hersteller für Waschbecken",
+            "metaDescription": "Eine Liste all unserer Hersteller für Waschbecken auf einen Blick | Entdecken Sie tolle Produkte von Herstellern wie: Villeroy & Boch, Duravit, Geberit uvm. ",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Waschbecken | Der Online Shop",
-      "metaDescription": "In unserem Shop erhältlich! | Handwaschbecken, Einbau-Waschbecken, Aufsatzwaschbecken und viele mehr | Top-Hersteller: Villeroy & Boch, Duravit, Geberit und Co.",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Top Hersteller für Waschbecken",
-      "metaDescription": "Eine Liste all unserer Hersteller für Waschbecken auf einen Blick | Entdecken Sie tolle Produkte von Herstellern wie: Villeroy & Boch, Duravit, Geberit uvm. ",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT - günstiger bestellen",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist ein Produkt, das durch Qualität überzeugt! | In unserem Shop finden Sie weitere Markenprodukte für den Bereich $KATEGORIE",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "7934870",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT - günstiger bestellen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist ein Produkt, das durch Qualität überzeugt! | In unserem Shop finden Sie weitere Markenprodukte für den Bereich $KATEGORIE",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Ideal Standard Waschbecken 60 cm Eurovit Plus Weiß",
-              "text": "<p class=\"justify\">Entdecken Sie das elegante und hochwertige Ideal Standard Waschbecken 60 cm Eurovit Plus in Weiß. Dieses Handwaschbecken aus der renommierten Marke Ideal Standard ist die perfekte Ergänzung für jedes Badezimmer, dank seiner zeitlosen Ästhetik und erstklassigen Verarbeitung. Das Eurovit Plus Waschbecken wird aus hochwertigem Feinfeuerton hergestellt und verfügt über eine praktische Wasserleiste.</p><p class=\"justify\">Das moderne Design des weißen Waschtisches wird durch seine klare rechteckige Form unterstrichen, die jedem Badezimmer eine ansprechende Optik verleiht. Die Armaturenbank ist mit einem durchgestochenen Hahnloch (links und rechts vorgestochen) ausgestattet, sodass Sie Ihre bevorzugte Armatur bequem anschließen können.</p><p class=\"justify\">Das Waschbecken ist für eine einfache und schnelle Montage an der Wand vorgesehen. Mit nur zwei Stockschrauben M10 x 14 cm kann das Waschbecken sicher und stabil an der Wand befestigt werden. Die Abmessungen des Ideal Standard Waschtisches betragen (B x H x T): 60 cm x 19 cm x 46 cm, wodurch er sich perfekt für kleine und mittelgroße Badezimmer eignet.</p><p class=\"justify\">Mit über 172 Kundenbewertungen und 4 Sternen ist das Ideal Standard Waschbecken 60 cm Eurovit Plus in Weiß eine beliebte Wahl für anspruchsvolle Kunden, die Wert auf Qualität und Stil legen. Verleihen Sie Ihrem Badezimmer eine luxuriöse Note mit diesem hochwertigen Handwaschbecken von Ideal Standard und erfreuen Sie sich jahrelang an der makellosen Optik und Funktionalität.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5895685",
-        "seo": {
-          "texts": [
-            {
-              "title": "Fackelmann Waschbecken 80 cm Malua Weiß",
-              "text": "<p class=\"justify\">Das Fackelmann Waschbecken 80 cm Malua Weiß (SKU: 5895685) ist ein hochwertiges Einbauwaschbecken der renommierten Marke Fackelmann. Mit seinem modernen Design und der funktionalen Ausstattung ist es eine ideale Ergänzung für jedes Badezimmer. Die weiße Farbe verleiht dem Waschbecken einen zeitlosen und eleganten Look, der sich mühelos in verschiedene Einrichtungsstile einfügt.</p><p class=\"justify\">Dieses Fackelmann Einbauwaschbecken hat die Maße 14 cm x 80 cm x 35 cm (H x B x T) und ist aus robustem Gussmaterial gefertigt. Dadurch ist es beständig gegen Kratzer und Stöße, wodurch es eine lange Lebensdauer verspricht. Die großzügige Breite von 80 cm bietet ausreichend Platz zum Händewaschen und zur Nutzung von Badutensilien wie Seifenspender, Zahnbürstenhalter und mehr. Der leicht abgerundete Rand des Waschbeckens verleiht ihm eine ansprechende Optik.</p><p class=\"justify\">Mit 388 Kundenbewertungen und 4 Sternen zeigt das Fackelmann Waschbecken 80 cm Malua Weiß, dass es bei den Kunden beliebt ist und hervorragende Leistung und Qualität bietet. Die Installation des Waschbeckens ist unkompliziert, sodass auch Heimwerker das Einbauwaschbecken problemlos in das Badezimmer integrieren können.</p><p class=\"justify\">Als Teil der Fackelmann Malua Serie ist dieses Waschbecken ideal mit weiteren Fackelmann Badezimmermöbeln und Accessoires kombinierbar. So können Sie ein stimmiges Gesamtbild in Ihrem Bad schaffen und dieses zu einer wahren Wohlfühloase verwandeln. Es ist nicht nur eine funktionale, sondern auch eine ästhetische Lösung für Ihr Badezimmer – das Fackelmann Waschbecken 80 cm Malua Weiß wird Sie begeistern.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "7494271",
-        "seo": {
-          "texts": [
-            {
-              "title": "Fackelmann Glaswaschbecken 80,5 cm Yega Weiß",
-              "text": "<p class=\"justify\">Das Fackelmann Glaswaschbecken 80,5 cm Yega Weiß mit SKU 7494271 ist ein hochwertiges und elegantes Einbauwaschbecken, das perfekt in jedes moderne Badezimmer passt. Als Teil der Badmöbelserie Yega bietet es eine ansprechende Optik und hervorragende Funktionalität. Die weiße Farbe verleiht dem Waschbecken ein zeitloses und stilvolles Design, das sich leicht in unterschiedliche Einrichtungsstile integrieren lässt.</p><p class=\"justify\">Das Glaswaschbecken von Fackelmann ist aus robustem Material gefertigt und verfügt über eine Stärke von 1,5 cm. Die Maße des Waschbeckens betragen 80,5 cm x 13,5 cm x 42 cm (B x H x T), sodass es bequem in nahezu jeden Raum passt. Die klaren Linien und das minimalistische Design machen es zudem zu einem tollen Blickfang in Ihrem Badezimmer.</p><p class=\"justify\">Mit einer GTIN13 von 4008033740012 zeigt dieses Waschbecken die Qualitätsansprüche der Marke Fackelmann. Die Kategorie Einbauwaschbecken umfasst verschiedene Waschbecken, die in unterschiedlichen Ausführungen erhältlich sind. Das Fackelmann Glaswaschbecken gehört dabei zu den beliebtesten Produkten in dieser Kategorie. Es hat bereits 438 Bewertungen erhalten und dabei herausragende 5 Sterne erzielt.</p><p class=\"justify\">In Verbindung mit anderen Produkten der Yega Badmöbelserie können Sie mit dem Fackelmann Glaswaschbecken 80,5 cm Yega Weiß ein harmonisches und durchgehendes Badezimmerdesign erschaffen. Das Waschbecken ist dabei nicht nur optisch ansprechend, sondern bietet auch eine hervorragende Funktionalität und Langlebigkeit. Vertrauen Sie auf die Qualität von Fackelmann und gestalten Sie Ihr Badezimmer mit diesem attraktiven Glaswaschbecken neu.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE - Riesige Auswahl in unserem Shop",
-    "defaultMetaDescription": "In der Kategorie $KATEGORIE finden Sie Waschbecken in verschiedenen Ausführungen. Ob rund, eckig oder oval: hier ist für jeden Geschmack etwas dabei!",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "7934870",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Ideal Standard Waschbecken 60 cm Eurovit Plus Weiß",
+                            "text": "<p class=\"justify\">Entdecken Sie das elegante und hochwertige Ideal Standard Waschbecken 60 cm Eurovit Plus in Weiß. Dieses Handwaschbecken aus der renommierten Marke Ideal Standard ist die perfekte Ergänzung für jedes Badezimmer, dank seiner zeitlosen Ästhetik und erstklassigen Verarbeitung. Das Eurovit Plus Waschbecken wird aus hochwertigem Feinfeuerton hergestellt und verfügt über eine praktische Wasserleiste.</p><p class=\"justify\">Das moderne Design des weißen Waschtisches wird durch seine klare rechteckige Form unterstrichen, die jedem Badezimmer eine ansprechende Optik verleiht. Die Armaturenbank ist mit einem durchgestochenen Hahnloch (links und rechts vorgestochen) ausgestattet, sodass Sie Ihre bevorzugte Armatur bequem anschließen können.</p><p class=\"justify\">Das Waschbecken ist für eine einfache und schnelle Montage an der Wand vorgesehen. Mit nur zwei Stockschrauben M10 x 14 cm kann das Waschbecken sicher und stabil an der Wand befestigt werden. Die Abmessungen des Ideal Standard Waschtisches betragen (B x H x T): 60 cm x 19 cm x 46 cm, wodurch er sich perfekt für kleine und mittelgroße Badezimmer eignet.</p><p class=\"justify\">Mit über 172 Kundenbewertungen und 4 Sternen ist das Ideal Standard Waschbecken 60 cm Eurovit Plus in Weiß eine beliebte Wahl für anspruchsvolle Kunden, die Wert auf Qualität und Stil legen. Verleihen Sie Ihrem Badezimmer eine luxuriöse Note mit diesem hochwertigen Handwaschbecken von Ideal Standard und erfreuen Sie sich jahrelang an der makellosen Optik und Funktionalität.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5895685",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Fackelmann Waschbecken 80 cm Malua Weiß",
+                            "text": "<p class=\"justify\">Das Fackelmann Waschbecken 80 cm Malua Weiß (SKU: 5895685) ist ein hochwertiges Einbauwaschbecken der renommierten Marke Fackelmann. Mit seinem modernen Design und der funktionalen Ausstattung ist es eine ideale Ergänzung für jedes Badezimmer. Die weiße Farbe verleiht dem Waschbecken einen zeitlosen und eleganten Look, der sich mühelos in verschiedene Einrichtungsstile einfügt.</p><p class=\"justify\">Dieses Fackelmann Einbauwaschbecken hat die Maße 14 cm x 80 cm x 35 cm (H x B x T) und ist aus robustem Gussmaterial gefertigt. Dadurch ist es beständig gegen Kratzer und Stöße, wodurch es eine lange Lebensdauer verspricht. Die großzügige Breite von 80 cm bietet ausreichend Platz zum Händewaschen und zur Nutzung von Badutensilien wie Seifenspender, Zahnbürstenhalter und mehr. Der leicht abgerundete Rand des Waschbeckens verleiht ihm eine ansprechende Optik.</p><p class=\"justify\">Mit 388 Kundenbewertungen und 4 Sternen zeigt das Fackelmann Waschbecken 80 cm Malua Weiß, dass es bei den Kunden beliebt ist und hervorragende Leistung und Qualität bietet. Die Installation des Waschbeckens ist unkompliziert, sodass auch Heimwerker das Einbauwaschbecken problemlos in das Badezimmer integrieren können.</p><p class=\"justify\">Als Teil der Fackelmann Malua Serie ist dieses Waschbecken ideal mit weiteren Fackelmann Badezimmermöbeln und Accessoires kombinierbar. So können Sie ein stimmiges Gesamtbild in Ihrem Bad schaffen und dieses zu einer wahren Wohlfühloase verwandeln. Es ist nicht nur eine funktionale, sondern auch eine ästhetische Lösung für Ihr Badezimmer – das Fackelmann Waschbecken 80 cm Malua Weiß wird Sie begeistern.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "7494271",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Fackelmann Glaswaschbecken 80,5 cm Yega Weiß",
+                            "text": "<p class=\"justify\">Das Fackelmann Glaswaschbecken 80,5 cm Yega Weiß mit SKU 7494271 ist ein hochwertiges und elegantes Einbauwaschbecken, das perfekt in jedes moderne Badezimmer passt. Als Teil der Badmöbelserie Yega bietet es eine ansprechende Optik und hervorragende Funktionalität. Die weiße Farbe verleiht dem Waschbecken ein zeitloses und stilvolles Design, das sich leicht in unterschiedliche Einrichtungsstile integrieren lässt.</p><p class=\"justify\">Das Glaswaschbecken von Fackelmann ist aus robustem Material gefertigt und verfügt über eine Stärke von 1,5 cm. Die Maße des Waschbeckens betragen 80,5 cm x 13,5 cm x 42 cm (B x H x T), sodass es bequem in nahezu jeden Raum passt. Die klaren Linien und das minimalistische Design machen es zudem zu einem tollen Blickfang in Ihrem Badezimmer.</p><p class=\"justify\">Mit einer GTIN13 von 4008033740012 zeigt dieses Waschbecken die Qualitätsansprüche der Marke Fackelmann. Die Kategorie Einbauwaschbecken umfasst verschiedene Waschbecken, die in unterschiedlichen Ausführungen erhältlich sind. Das Fackelmann Glaswaschbecken gehört dabei zu den beliebtesten Produkten in dieser Kategorie. Es hat bereits 438 Bewertungen erhalten und dabei herausragende 5 Sterne erzielt.</p><p class=\"justify\">In Verbindung mit anderen Produkten der Yega Badmöbelserie können Sie mit dem Fackelmann Glaswaschbecken 80,5 cm Yega Weiß ein harmonisches und durchgehendes Badezimmerdesign erschaffen. Das Waschbecken ist dabei nicht nur optisch ansprechend, sondern bietet auch eine hervorragende Funktionalität und Langlebigkeit. Vertrauen Sie auf die Qualität von Fackelmann und gestalten Sie Ihr Badezimmer mit diesem attraktiven Glaswaschbecken neu.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE - Riesige Auswahl in unserem Shop",
+        "defaultMetaDescription": "In der Kategorie $KATEGORIE finden Sie Waschbecken in verschiedenen Ausführungen. Ob rund, eckig oder oval: hier ist für jeden Geschmack etwas dabei!",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER - Qualität zum Bestpreis",
+        "defaultMetaDescription": "Kaufen Sie bei uns Waschbecken von Herstellern wie $HERSTELLER | Umfangreiches Sortiment | Top Qualität zum fairen Preis | Waschbecken einfach Liefern lassen.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Waschbecken",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Waschbecken Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Waschbecken Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER - Qualität zum Bestpreis",
-    "defaultMetaDescription": "Kaufen Sie bei uns Waschbecken von Herstellern wie $HERSTELLER | Umfangreiches Sortiment | Top Qualität zum fairen Preis | Waschbecken einfach Liefern lassen.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Waschbecken",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Waschbecken Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Waschbecken Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
